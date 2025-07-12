@@ -1,6 +1,6 @@
 // Full Name: Frank Smith
 // Class: [Itcs-2530]
-// GitHub Repo URL: [Paste the URL to your repo here, e.g., https://github.com/yourusername/your-repo]
+// GitHub Repo URL: https://github.com/yourusername/your-repo
 // One-Sentence Summary: A menu-driven C++ program to organize, add, and save a shoe collection.
 // Your posted hobby or interest: Shoes collection
 // AI Tool(s) Used: ChatGPT
